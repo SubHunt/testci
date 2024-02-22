@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "publishConfig": {
-    "registry":"https://npm.pkg.gitflic.ru/"
+    "registry":"https://npm.pkg.github.ru/"
   },
   "scripts": {
     "start": "webpack serve --mode development",
@@ -41,7 +41,7 @@
 },
 "repository": {
   "type": "git",
-  "url": "https://gitflic.ru/project/subhunt/ajs_hw/file?file=4_unit&branch=main"
+  "url": "https://github.com/SubHunt/testci"
 },
 "description": ""
 }
